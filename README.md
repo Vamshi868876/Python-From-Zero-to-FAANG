@@ -8,47 +8,48 @@
 ## 🌟 Introduction
 Welcome to **Python From Zero to FAANG**! This repository is heavily inspired by the incredible structure of the `30-Days-Of-Python` challenge, but supercharged with **premium, FAANG-level curriculum**, **baby-level explanations**, **visual memory tricks**, and **interview preparation**.
 
-Every single day includes:
-1. **Baby Version 👶🐣**: Understand concepts as if you were 5.
-2. **Beginner Version 🧑‍🎓**: Simple explanations with examples.
-3. **Interview Version 💼**: Professional FAANG-style definitions.
-4. **Visual Memory Tricks 🧠**: Easy-to-remember shortcuts.
-5. **Interview Questions & Practice Problems**: Segmented by difficulty.
+### 🔥 The Premium Structure
+Every single day's folder is structured perfectly for maximum learning retention:
+- `README.md` → **Learn:** Full notes, analogies, and FAANG tricks.
+- `examples.py` → **Explore:** A coding playground with real examples.
+- `exercises.md` → **Practice:** Challenge arena (Easy to Boss Fight).
+- `solutions.py` → **Verify:** Answers to the challenges.
+- `interview_questions.md` → **Prepare:** Ready for job interviews!
 
 ---
 
 ## 📅 The 30 Days Blueprint
 
-- [x] **[Day 1 - Introduction](01_Day_Introduction/01_introduction.md)**
-- [x] **[Day 2 - Variables & Built-in Functions](02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)**
-- [ ] **[Day 3 - Operators](03_Day_Operators/03_operators.md)**
-- [ ] **[Day 4 - Strings](04_Day_Strings/04_strings.md)**
-- [ ] **[Day 5 - Lists](05_Day_Lists/05_lists.md)**
-- [ ] **[Day 6 - Tuples](06_Day_Tuples/06_tuples.md)**
-- [ ] **[Day 7 - Sets](07_Day_Sets/07_sets.md)**
-- [ ] **[Day 8 - Dictionaries](08_Day_Dictionaries/08_dictionaries.md)**
-- [ ] **[Day 9 - Conditionals](09_Day_Conditionals/09_conditionals.md)**
-- [ ] **[Day 10 - Loops](10_Day_Loops/10_loops.md)**
-- [ ] **[Day 11 - Functions](11_Day_Functions/11_functions.md)**
-- [ ] **[Day 12 - Modules](12_Day_Modules/12_modules.md)**
-- [ ] **[Day 13 - List Comprehension](13_Day_List_comprehension/13_list_comprehension.md)**
-- [ ] **[Day 14 - Higher Order Functions](14_Day_Higher_order_functions/14_higher_order_functions.md)**
-- [ ] **[Day 15 - Python Type Errors](15_Day_Python_type_errors/15_python_type_errors.md)**
-- [ ] **[Day 16 - Python Date Time](16_Day_Python_date_time/16_python_date_time.md)**
-- [ ] **[Day 17 - Exception Handling](17_Day_Exception_handling/17_exception_handling.md)**
-- [ ] **[Day 18 - Regular Expressions](18_Day_Regular_expressions/18_regular_expressions.md)**
-- [ ] **[Day 19 - File Handling](19_Day_File_handling/19_file_handling.md)**
-- [ ] **[Day 20 - Python Package Manager](20_Day_Python_package_manager/20_python_package_manager.md)**
-- [ ] **[Day 21 - Classes and Objects](21_Day_Classes_and_objects/21_classes_and_objects.md)**
-- [ ] **[Day 22 - Web Scraping](22_Day_Web_scraping/22_web_scraping.md)**
-- [ ] **[Day 23 - Virtual Environment](23_Day_Virtual_environment/23_virtual_environment.md)**
-- [ ] **[Day 24 - Statistics](24_Day_Statistics/24_statistics.md)**
-- [ ] **[Day 25 - Pandas](25_Day_Pandas/25_pandas.md)**
-- [ ] **[Day 26 - Python Web](26_Day_Python_web/26_python_web.md)**
-- [ ] **[Day 27 - Python with MongoDB](27_Day_Python_with_mongodb/27_python_with_mongodb.md)**
-- [ ] **[Day 28 - API](28_Day_API/28_api.md)**
-- [ ] **[Day 29 - Building API](29_Day_Building_API/29_building_api.md)**
-- [ ] **[Day 30 - Conclusions](30_Day_Conclusions/30_conclusions.md)**
+- [x] **[Day 1 - Variables & Data Types](Day-01-Variables-and-Data-Types/README.md)**
+- [ ] **[Day 2 - Operators](Day-02-Operators/README.md)**
+- [ ] **[Day 3 - Conditionals](Day-03-Conditionals/README.md)**
+- [ ] **[Day 4 - Loops](Day-04-Loops/README.md)**
+- [ ] **[Day 5 - Functions](Day-05-Functions/README.md)**
+- [ ] **[Day 6 - Strings](Day-06-Strings/README.md)**
+- [ ] **[Day 7 - Lists](Day-07-Lists/README.md)**
+- [ ] **[Day 8 - Tuples](Day-08-Tuples/README.md)**
+- [ ] **[Day 9 - Sets](Day-09-Sets/README.md)**
+- [ ] **[Day 10 - Dictionaries](Day-10-Dictionaries/README.md)**
+- [ ] **[Day 11 - Modules](Day-11-Modules/README.md)**
+- [ ] **[Day 12 - List Comprehension](Day-12-List-Comprehension/README.md)**
+- [ ] **[Day 13 - Higher Order Functions](Day-13-Higher-Order-Functions/README.md)**
+- [ ] **[Day 14 - Type Errors](Day-14-Type-Errors/README.md)**
+- [ ] **[Day 15 - Date Time](Day-15-Date-Time/README.md)**
+- [ ] **[Day 16 - Exception Handling](Day-16-Exception-Handling/README.md)**
+- [ ] **[Day 17 - Regular Expressions](Day-17-Regular-Expressions/README.md)**
+- [ ] **[Day 18 - File Handling](Day-18-File-Handling/README.md)**
+- [ ] **[Day 19 - Package Manager](Day-19-Package-Manager/README.md)**
+- [ ] **[Day 20 - Classes and Objects](Day-20-Classes-and-Objects/README.md)**
+- [ ] **[Day 21 - Web Scraping](Day-21-Web-Scraping/README.md)**
+- [ ] **[Day 22 - Virtual Environment](Day-22-Virtual-Environment/README.md)**
+- [ ] **[Day 23 - Statistics](Day-23-Statistics/README.md)**
+- [ ] **[Day 24 - Pandas](Day-24-Pandas/README.md)**
+- [ ] **[Day 25 - Python Web](Day-25-Python-Web/README.md)**
+- [ ] **[Day 26 - Python with MongoDB](Day-26-Python-with-MongoDB/README.md)**
+- [ ] **[Day 27 - API](Day-27-API/README.md)**
+- [ ] **[Day 28 - Building API](Day-28-Building-API/README.md)**
+- [ ] **[Day 29 - Data Science Basics](Day-29-Data-Science-Basics/README.md)**
+- [ ] **[Day 30 - Conclusions](Day-30-Conclusions/README.md)**
 
 ---
 ### 🚀 How to Use This Repo
