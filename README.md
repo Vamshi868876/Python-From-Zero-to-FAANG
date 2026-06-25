@@ -1,6 +1,12 @@
 <div align="center">
   <h1>🐍 Python From Zero to FAANG</h1>
   <p><strong>A 30-Day Step-by-Step Challenge to Master Python (Beginner to FAANG Level)</strong></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Language-Python%203-blue?style=for-the-badge&logo=python" alt="Python 3" />
+    <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen?style=for-the-badge" alt="Level" />
+    <img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge" alt="License" />
+  </p>
 </div>
 
 ---
@@ -15,6 +21,23 @@ Every single day's folder is structured perfectly for maximum learning retention
 - `exercises.md` → **Practice:** Challenge arena (Easy to Boss Fight).
 - `solutions.py` → **Verify:** Answers to the challenges.
 - `interview_questions.md` → **Prepare:** Ready for job interviews!
+
+---
+
+## 🗺️ Learning Roadmap
+
+```mermaid
+graph TD
+    A[Start Here: Zero] -->|Day 1-5| B(Python Basics)
+    B -->|Day 6-10| C(Data Structures)
+    C -->|Day 11-15| D(Functions & Modules)
+    D -->|Day 16-20| E(Advanced Concepts)
+    E -->|Day 21-25| F(OOP & Web Scraping)
+    F -->|Day 26-30| G[APIs, Web & FAANG Ready!]
+    
+    style A fill:#ff9900,stroke:#333,stroke-width:2px
+    style G fill:#00cc66,stroke:#333,stroke-width:2px
+```
 
 ---
 
@@ -52,5 +75,16 @@ Every single day's folder is structured perfectly for maximum learning retention
 - [ ] **[Day 30 - Conclusions](Day-30-Conclusions/README.md)**
 
 ---
+
 ### 🚀 How to Use This Repo
 Click on any of the completed days above to jump straight into the premium notes and exercises for that topic. Make sure to commit every day to track your progress!
+
+---
+
+## 👨‍💻 Author & Contact
+Created with passion by **Vamshi Batthula**.
+Feel free to reach out if you have questions or want to collaborate!
+📧 **Email:** [batthulavamshi740@gmail.com](mailto:batthulavamshi740@gmail.com)
+
+## 📜 License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
