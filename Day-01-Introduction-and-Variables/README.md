@@ -1,3 +1,31 @@
+# Introduction & Variables
+
+## 🐍 Introduction to Python
+Python is a high-level programming language. "High-level" just means it is closer to human language (English) than computer language (1s and 0s). 
+Because it is so easy to read, programmers love it for building websites, automating boring tasks, and creating Artificial Intelligence (AI).
+
+### 🤖 Baby Version
+Imagine you have a robot friend named **Python**. 🤖
+Right now, your robot doesn't know how to do anything. But you have a magic notebook! 
+Whenever you write a command in the notebook (like "Say Hello"), the robot reads it and does exactly what you wrote.
+
+In programming, writing code is exactly like writing in that magic notebook. You are giving your robot instructions!
+
+## 🌍 Hello World Program
+The traditional first program for any language is making the computer say "Hello World".
+
+### The Code
+```python
+print("Hello World")
+```
+
+### Explanation
+- `print`: This is a built-in function that tells Python to output something to the screen (like a megaphone 📣).
+- `()`: Parentheses hold the data you are passing to the function.
+- `" "`: Quotes tell Python that the data is text (a string).
+
+---
+
 # Variables — How Does Python Remember Things?
 
 ## 🤔 Have You Ever Wondered?

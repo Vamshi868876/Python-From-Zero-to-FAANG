@@ -20,7 +20,7 @@ Every single day's folder is structured perfectly for maximum learning retention
 
 ## 📅 The 30 Days Blueprint
 
-- [x] **[Day 1 - Variables & Data Types](Day-01-Variables-and-Data-Types/README.md)**
+- [x] **[Day 1 - Introduction and Variables](Day-01-Introduction-and-Variables/README.md)**
 - [ ] **[Day 2 - Operators](Day-02-Operators/README.md)**
 - [ ] **[Day 3 - Conditionals](Day-03-Conditionals/README.md)**
 - [ ] **[Day 4 - Loops](Day-04-Loops/README.md)**
