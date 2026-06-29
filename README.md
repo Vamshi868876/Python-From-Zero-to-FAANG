@@ -45,7 +45,7 @@ graph TD
 
 - [x] **[Day 1 - Introduction and Variables](Day-01-Introduction-and-Variables/README.md)**
 - [x] **[Day 2 - Data Types](Day-02-Data-Types/README.md)**
-- [ ] **[Day 3 - Conditionals](Day-03-Conditionals/README.md)**
+- [x] **[Day 3 - Conditionals](Day-03-Conditionals/README.md)**
 - [ ] **[Day 4 - Loops](Day-04-Loops/README.md)**
 - [ ] **[Day 5 - Functions](Day-05-Functions/README.md)**
 - [ ] **[Day 6 - Strings](Day-06-Strings/README.md)**
