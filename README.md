@@ -46,13 +46,13 @@ graph TD
 - [x] **[Day 1 - Introduction and Variables](Day-01-Introduction-and-Variables/README.md)**
 - [x] **[Day 2 - Data Types](Day-02-Data-Types/README.md)**
 - [x] **[Day 3 - Conditionals](Day-03-Conditionals/README.md)**
-- [ ] **[Day 4 - Loops](Day-04-Loops/README.md)**
-- [ ] **[Day 5 - Functions](Day-05-Functions/README.md)**
-- [ ] **[Day 6 - Strings](Day-06-Strings/README.md)**
-- [ ] **[Day 7 - Lists](Day-07-Lists/README.md)**
-- [ ] **[Day 8 - Tuples](Day-08-Tuples/README.md)**
-- [ ] **[Day 9 - Sets](Day-09-Sets/README.md)**
-- [ ] **[Day 10 - Dictionaries](Day-10-Dictionaries/README.md)**
+- [x] **[Day 4 - Loops](Day-04-Loops/README.md)**
+- [x] **[Day 5 - Functions](Day-05-Functions/README.md)**
+- [x] **[Day 6 - Strings](Day-06-Strings/README.md)**
+- [x] **[Day 7 - Lists](Day-07-Lists/README.md)**
+- [x] **[Day 8 - Tuples](Day-08-Tuples/README.md)**
+- [x] **[Day 9 - Sets](Day-09-Sets/README.md)**
+- [x] **[Day 10 - Dictionaries](Day-10-Dictionaries/README.md)**
 - [ ] **[Day 11 - Modules](Day-11-Modules/README.md)**
 - [ ] **[Day 12 - List Comprehension](Day-12-List-Comprehension/README.md)**
 - [ ] **[Day 13 - Higher Order Functions](Day-13-Higher-Order-Functions/README.md)**
